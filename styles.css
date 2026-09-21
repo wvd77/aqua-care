@@ -6,3 +6,5 @@
 .photo-dialog{padding:12px;background:#fff}.photo-dialog img{display:block;width:100%;max-height:70vh;object-fit:contain;border-radius:14px;margin-bottom:10px}
 
 .shoplink-slot{min-height:32px;font-size:12px;line-height:16px;color:#0f6f4f;font-weight:700;margin-top:4px}
+
+.species-name-row{display:flex;gap:8px;align-items:center}.species-name-row input{flex:1}.species-name-row .btn{white-space:nowrap}.species-loading,.species-chosen{font-size:12px;padding:9px 4px;color:#66766e}.species-chosen{color:#0f6f4f;font-weight:700}.species-result{width:100%;display:flex;align-items:center;gap:10px;text-align:left;border:1px solid #e1eae5;background:#fff;border-radius:12px;padding:8px;margin:6px 0;cursor:pointer;color:#17382b}.species-result img,.species-placeholder{width:44px;height:44px;min-width:44px;border-radius:10px;object-fit:cover;background:#edf5f1;display:grid;place-items:center}.species-result span:last-child{min-width:0}.species-result b{display:block}.species-result small{display:block;color:#66766e;margin-top:2px;font-style:italic}
