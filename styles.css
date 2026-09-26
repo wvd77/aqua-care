@@ -11,3 +11,5 @@
 
 .timeline-photo{display:block!important;width:82px!important;height:82px!important;max-width:82px!important;max-height:82px!important;object-fit:cover!important;border-radius:12px;margin-top:9px;cursor:pointer}
 @media(max-width:430px){.shoprow{grid-template-columns:1fr}.shoprow .row{justify-content:flex-start}.shoprow .btn{flex:1}.card>.stepper{margin-left:auto}}
+
+.onboarding-dialog{max-width:480px}.onboarding-dialog h2{text-align:center;margin-bottom:6px}.onboarding-dialog>p{text-align:center;color:#66766e}.onboarding-icon{width:64px;height:64px;margin:4px auto 12px;border-radius:50%;display:grid;place-items:center;background:#edf5f1;font-size:32px}.onboarding-progress{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin-bottom:18px}.onboarding-progress span{height:5px;border-radius:9px;background:#dfe8e3}.onboarding-progress span.on{background:#0f6f4f}.onboarding-actions{display:flex;justify-content:flex-end;gap:8px;margin-top:20px}.onboarding-tip,.onboarding-summary{background:#edf5f1;border-radius:14px;padding:14px;margin-top:14px;line-height:1.65}.onboarding-summary{color:#254d3d}
