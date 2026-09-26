@@ -1,4 +1,4 @@
-const CACHE='aqua-care-v1.2.4';
+const CACHE='aqua-care-v1.3.0';
 const ASSETS=['./','./index.html','./styles.css','./app.js','./manifest.webmanifest','./icons/icon.svg'];
 
 self.addEventListener('install',e=>{
